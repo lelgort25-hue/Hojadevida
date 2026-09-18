@@ -1,5 +1,21 @@
 body{
-    background-color:#97710a42;
-    color: #7e087e;
-    font-family:arial,sans-serif;
+    background-color:#0e218ac0;
+    color: #0d1117;
+    font-family:"Bubbler One", Sans-serif;
+}
+
+h1{
+    color: #1f2937;
+    font-size: 40px;
+
+
+}
+
+.seccion{
+    background-color: rgb(3, 40, 109, 0.295);
+
+}
+#perfil{
+    background-color: #1552b3be;
+
 }
